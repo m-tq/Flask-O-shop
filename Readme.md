@@ -25,5 +25,5 @@ Installing requirements:
 pip install -r requirements.txt
 ```
 
-# Live Project
-https://flaskoshop.gilobyte.com
+# Live Project ( Modified )
+https://store.xme.my.id
